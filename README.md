@@ -1,3 +1,17 @@
+# website-laravel-9
+
+Website ini merupakan hasil belajar dari course codingstudio
+
+Website ini berupa website e-commerce
+1. Terdiri dari dua jenis user yaitu admin dan bukan admin(member biasa). Di mana admin hanya bisa ditambahkan melalui seeeding
+2. Admin dapat melihat semua product, melihat semua order, konfirmasi pembayaran, membuat product, mengedit producr, menghapus product
+3. User selain admin dapat meliht semua product, menambahkan product ke cart, checkout, melihat semua product yang diordernya sendiri, mengunggah pembayaran
+
+Kekurangan
+1. Tampilan UI masih sangat jauh dari yang diharapkan. Sebab masih ada kendala di bagian bootstrap. Namun akan segera ditingkatkan
+
+=======================================================================================================================================================================
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
